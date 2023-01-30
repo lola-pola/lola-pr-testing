@@ -1,8 +1,8 @@
 # This is a comment.
 # Each line is a file pattern followed by one or more owners.
 .github @shdowofdeath
-test-file-blocked @shdowofdeath
-test-file @eefrat
+test-file-blocked @lola-pola/dev
+test-file @lola-pola/security
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
