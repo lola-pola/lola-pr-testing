@@ -4,6 +4,8 @@
 test-file-blocked @lola-pola/dev
 test-file @lola-pola/security
 
+
+restricted/* @lola-pola/dev
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
